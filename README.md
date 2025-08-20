@@ -1,0 +1,2 @@
+# NOAA_Weather_Data_Analysis_JFK_Airport_-New_York-
+This notebook focuses on analyzing and forecasting weather patterns using the NOAA Weather Dataset collected from JFK Airport. 114,546 hourly observations of 12 key climatological variables, like temperature, wind speed, humidity, pressure. Sample data is extracted, cleaned, analyzed and predicts weather trends for scheduling better flight times.
